@@ -84,4 +84,4 @@ main.py - Dihedral check + plot code
 - [ ] Color by secondary structure (DSSP)
 - [ ] Add mmCIF (.cif) support
 - [ ] Visualize outliers in PyMOL
-- [ ] 
+      
